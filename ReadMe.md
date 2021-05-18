@@ -1,1 +1,0 @@
-#Git commands for learning.
