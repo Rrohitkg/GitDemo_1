@@ -1,0 +1,20 @@
+git commands =>
+git status
+git init
+git add --a
+git log
+git add first.txt
+git commit -m "some message"
+git -rf .git (Delete everything)
+git diff
+git restore first.txt
+git merge branchName (For merging with master and other branch)
+git checkout -b branchName (Used to create new branch)
+git checkout branchName (Used to switch between the existing branch)
+git commit -a -m "some message" 
+git branch
+bit brach -v
+git branch --merged
+git branch --no-merged
+git branch -d branchName
+git branch -D branchName
