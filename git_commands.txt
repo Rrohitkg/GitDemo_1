@@ -18,3 +18,4 @@ git branch --merged
 git branch --no-merged
 git branch -d branchName
 git branch -D branchName
+git rm fileName (To delete the file)
