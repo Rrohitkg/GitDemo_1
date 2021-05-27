@@ -19,3 +19,4 @@ git branch --no-merged
 git branch -d branchName
 git branch -D branchName
 git rm fileName (To delete the file)
+git push -u origin branchName

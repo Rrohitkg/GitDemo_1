@@ -1,1 +1,2 @@
-# Git commands for learning
+# Git commands
+# Git project 1
