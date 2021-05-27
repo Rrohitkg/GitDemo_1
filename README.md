@@ -1,1 +1,1 @@
-# Git commands for learning
+# Git commands
